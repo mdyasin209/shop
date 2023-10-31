@@ -1,0 +1,8 @@
+<svg width="181" height="188" viewBox="0 0 181 188" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.25">
+<path opacity="0.25" d="M181 171C181 164.373 175.627 159 169 159C162.373 159 157 164.373 157 171V188H181V171Z" fill="#FAFAFA"/>
+<path opacity="0.5" d="M166 151.5C166 136.864 154.136 125 139.5 125C124.864 125 113 136.864 113 151.5V188H166V151.5Z" fill="#FAFAFA"/>
+<path opacity="0.75" d="M131 127C131 102.699 111.301 83 87 83C62.6995 83 43 102.699 43 127V188H131V127Z" fill="#FAFAFA"/>
+<path d="M69 62.5C69 27.9822 41.0178 0 6.5 0C-28.0178 0 -56 27.9822 -56 62.5V188H69V62.5Z" fill="#FAFAFA" fill-opacity="0.5"/>
+</g>
+</svg>
